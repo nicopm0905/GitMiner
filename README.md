@@ -1,4 +1,3 @@
-# GitMiner
 # GitMiner API
 
 GitMiner es una API REST desarrollada en Java con Spring Boot que permite extraer, estructurar y consultar información de proyectos de control de versiones, como GitHub y Bitbucket. Forma parte del proyecto de integración de AISS 2025.
